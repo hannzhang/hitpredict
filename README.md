@@ -386,6 +386,8 @@ abline(v = 900, lwd = 0.5)
 ```
 ![](./inst/Image/Method_based score.png "method_based score")
 
+
+
 &nbsp;
 
 Now let us take a look at the distribution graph for the interaction score.
@@ -526,9 +528,11 @@ myScoreset <- read.delim(system.file("extdata",
 
 ## 7. Reference
 
-Example code for the style of README, for biomaRt, for generating a mapping tool, and for making plots was taken from the [BCB420.2019.STRING project](https://github.com/hyginn/BCB420.2019.STRING) (Steipe, 2019). 
-The functionality of toBrowser.R is taken from [BCB420-2019-resources](https://github.com/hyginn/BCB420-2019-resources).
-The information about the database HitPredict is taken from
+*Example code for the style of README, for biomaRt, for generating a mapping tool, and for making plots was taken from the [BCB420.2019.STRING project](https://github.com/hyginn/BCB420.2019.STRING) (Steipe, 2019). 
+
+*The functionality of toBrowser.R is taken from [BCB420-2019-resources](https://github.com/hyginn/BCB420-2019-resources).
+
+*The information about the database HitPredict is taken from
 [HitPredict database](http://hintdb.hgc.jp/htp/index.html).
 
 &nbsp;
