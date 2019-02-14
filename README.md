@@ -384,7 +384,7 @@ hist(data$method_s[(data$method_s >= minScore) & (data$method_s <= maxScore)],
 axis(1, at = seq(minScore, maxScore, by = 0.1))
 abline(v = 900, lwd = 0.5)
 ```
-![](./inst/Image/Method_based score.png "method_based score")
+![](./inst/Image/Method_based_score.png "method_based score")
 
 
 
@@ -406,7 +406,7 @@ hist(data$interaction_s[(data$interaction_s >= minScore) & (data$interaction_s <
 axis(1, at = seq(minScore, maxScore, by = 0.1))
 abline(v = 900, lwd = 0.5)  
 ```
-![](./inst/Image/Interaction_based score counts.png "interaction_based score")
+![](./inst/Image/Interaction_based_score.png? "interaction_based score")
 
 &nbsp;
 
